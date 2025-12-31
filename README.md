@@ -26,6 +26,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![NGINX](https://skillicons.dev/icons?i=nginx&theme=dark)](https://skillicons.dev)
+[![POWERSHELL](https://skillicons.dev/icons?i=powershell&theme=dark)](https://skillicons.dev)
 
 ## 🖥️ Operating System
 [![UBUNTU](https://skillicons.dev/icons?i=ubuntu&theme=light)](https://skillicons.dev)
