@@ -27,7 +27,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![NGINX](https://skillicons.dev/icons?i=nginx&theme=dark)](https://skillicons.dev)
 
-## 💻 Operating System
+## 🖥️ Operating System
 
 - 🐧 Linux (Ubuntu) – primary OS for DevOps practice
 - 🪟 Windows 11 – daily use & tooling
