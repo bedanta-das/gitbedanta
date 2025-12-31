@@ -1,6 +1,6 @@
 <div align="center">
 
-# __I'm Bedanta Das__
+# _I'm Bedanta Das_
 
 </div>
 
