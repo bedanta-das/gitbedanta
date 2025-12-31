@@ -7,7 +7,7 @@
 Passionate about technology and on a dynamic journey to enhance my skills, I'm currently immersed in AWS, Linux, Networking.Gearing up to make a mark in the Devops Domain.Eager to kickstart my career as a fresher, I'm actively seeking opportunities to apply my knowledge and contribute to innovative projects.
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=aws&theme=light)]([https://skillicons.dev](https://linkedin.com/in/https://www.linkedin.com/in/bedanta-das))(https://linkedin.com/in/https://www.linkedin.com/in/bedanta-das)] 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)]([https://skillicons.dev](https://linkedin.com/in/https://www.linkedin.com/in/bedanta-das))(https://linkedin.com/in/https://www.linkedin.com/in/bedanta-das)] 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bgbtbm2001@gmail.com) 
 
 # 💻 Tech Stack:
