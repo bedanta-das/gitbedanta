@@ -1,4 +1,6 @@
-# <h1><p class="center-text">💫 I'm Bedanta Das</p>
+# <p class="center-text">
+    💫 I'm Bedanta Das
+  </p>
 Passionate about technology and on a dynamic <br>journey to enhance my skills, <br>I'm currently immersed in AWS, Linux, Networking. <br>Gearing up to make a mark in the Devops Domain. <br>Eager to kickstart my career as a fresher, <br>I'm actively seeking opportunities to apply my <br>knowledge and contribute to innovative projects.
 
 
