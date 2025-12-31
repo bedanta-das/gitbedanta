@@ -22,7 +22,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) 
 [![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://skillicons.dev)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light)](https://skillicons.dev)
-[![Terraform](https://skillicons.dev/icons?i=terraform&theme=light)](https://skillicons.dev)
+[![Terraform](https://skillicons.dev/icons?i=terraform&theme=dark)](https://skillicons.dev)
 [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![NGINX](https://skillicons.dev/icons?i=nginx&theme=dark)](https://skillicons.dev)
