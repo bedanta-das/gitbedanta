@@ -27,8 +27,3 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 ![](https://github-contributor-stats.vercel.app/api?username=gitbedanta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gitbedanta&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
