@@ -44,8 +44,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 ![](https://github-profile-trophy.vercel.app/?username=gitbedanta&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)  
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gitbedanta&limit=5&theme=dark&combine_all_yearly_contributions=true)
