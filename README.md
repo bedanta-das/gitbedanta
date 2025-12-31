@@ -30,7 +30,7 @@ Passionate about technology and on a dynamic journey to enhance my skills, I'm c
 
 ## 🖥️ Operating System
 [![UBUNTU](https://skillicons.dev/icons?i=ubuntu&theme=light)](https://skillicons.dev)
-[![WINDOWS](https://skillicons.dev/icons?i=windows&theme=light)](https://skillicons.dev)
+[![WINDOWS](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
 
 - 🐧 Linux (Ubuntu) – Used for DevOps practice
 - 🪟 Windows 11 – Used for daily use
